@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <declare-styleable name="CustomGrooveView">
+        <attr name="hideTop" format="boolean" />
+        <attr name="hideBottom" format="boolean" />
+
+    </declare-styleable>
+</resources>
